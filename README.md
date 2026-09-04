@@ -1,3 +1,5 @@
+<img src="images/neteclogo.png" alt="logo" width="300"/>
+
 # Taller Práctico Generative AI for Everyone
 
 Taller orientado a convertir los conocimientos adquiridos en el curso Generative AI for Everyone y IA para todos en una solución aplicable al entorno profesional de cada participante.
@@ -18,8 +20,12 @@ El resultado no será únicamente un ejercicio de prompting, sino un prototipo f
   - Descripción: Identificar una necesidad real del entorno laboral y diseñar una solución viable apoyada por inteligencia artificial, definiendo el problema, el valor esperado, las tareas que realizará la IA y las que permanecerán bajo supervisión humana. El participante construirá y probará un prototipo mediante IA generativa, evaluará la calidad y las limitaciones de sus resultados, e identificará los riesgos y controles necesarios para su aplicación responsable. Esto se desarrollaría en las siguientes etapas: Definición y análisis de la tarea; Diseño del flujo de trabajo asistido por IA; Construcción y prueba del prototipo; Prueba de calidad, limitaciones y utilidad; Uso responsable y plan de aplicación; Presentación ejecutiva del caso de uso.
   - Duración estimada: 105 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
