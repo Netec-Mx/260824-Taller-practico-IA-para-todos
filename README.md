@@ -1,4 +1,4 @@
-<img src="images/neteclogo.png" alt="logo" width="300"/>
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
 # Taller Práctico Generative AI for Everyone
 
